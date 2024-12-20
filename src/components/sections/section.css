@@ -1,0 +1,14 @@
+.section {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .home {
+    background-color: #f0f0f0;
+  }
+  
